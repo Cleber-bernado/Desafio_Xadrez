@@ -1,3 +1,2 @@
-# Desafio_Batalha_Naval
+# Desafios
 Repositório que contém a resposta do Desafio: Batalha Naval
-# Desafio_Xadrez
